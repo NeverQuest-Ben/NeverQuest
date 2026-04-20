@@ -14,4 +14,4 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Items:
-    -Aethylsteel Longsword:
+    -Aethylsteel Longsword: docs/itemDatabase/Aethylsteel_Longsword
