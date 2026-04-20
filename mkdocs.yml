@@ -13,3 +13,5 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - Items:
+    -Aethylsteel Longsword:
