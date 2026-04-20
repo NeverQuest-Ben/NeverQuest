@@ -1,5 +1,5 @@
 # Druid Subclass
-!!! abstract "Subclass Name"
+!!! abstract Subclass Name
     This subclass has a description.
 
 ## Starting Area
