@@ -1,7 +1,4 @@
-# Subclass
-
-The Druid Subclass
-
+# Druid Subclass
 !!! abstract "Subclass Name"
     This subclass has a description.
 
