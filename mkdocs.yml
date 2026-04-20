@@ -1,12 +1,8 @@
 site_name: Neverquest Wiki
+
 theme:
   name: material
-  palette:
-    scheme: slate
-    primary: deep purple
-nav:
-  - Home: index.md
-  
+
 markdown_extensions:
   - admonition
   - pymdownx.details
