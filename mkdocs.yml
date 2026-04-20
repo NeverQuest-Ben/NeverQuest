@@ -6,3 +6,8 @@ theme:
     primary: deep purple
 nav:
   - Home: index.md
+  
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
