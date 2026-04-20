@@ -3,6 +3,7 @@ site_name: Neverquest Wiki
 theme:
   name: material
 
+# Zero spaces before the line below!
 markdown_extensions:
   - admonition
   - pymdownx.details
