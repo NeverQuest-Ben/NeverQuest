@@ -1,5 +1,6 @@
 !!! abstact ""
 # Aethylsteel Longsword
+* A gift given by Aethylyra, the Mother Tree and forged by The Fey
 
 ![Aethylsteel Longsword](../gameAssets/Aethylsteel_Longsword.png){: style="image-rendering: pixelated; width: 32px;" }
 
