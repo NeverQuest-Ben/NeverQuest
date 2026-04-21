@@ -16,14 +16,14 @@
      
     A healing over time spell that heals any allies within the spell area for a short duration.  Advanced versions of the base spell are purchased from the Druid Lore Master.
     
-    | Spell Name | Level |
-    | :--- | :--- |
-    | Chloroplast | 1 |
-    | Phytosynthesis | 4 |
-    | Heartvine Infusion | 8 |
-    | Fungal Regrowth | 25 |
-    | Crystalline Bloom | 35 |
-    | Sunlight Infusion | 45 |
+    | Spell Name | Level | Mana | Ticks | Damage |
+    | :---: | :---: | :---: | :---: | :---: |
+    | Chloroplast | 1 | ? | ? | ? | ? |
+    | Phytosynthesis | 4 | ? | ? | ? | ? |
+    | Heartvine Infusion | 8 | ? | ? | ? | ? |
+    | Fungal Regrowth | 25 | ? | ? | ? | ? |
+    | Crystalline Bloom | 35 | ? | ? | ? | ? |
+    | Sunlight Infusion | 45 | ? | ? | ? | ? |
 
  
 !!! info "Spell Line - Vinelash "
@@ -32,13 +32,13 @@
 
     A debuff spell, that slows enemy movement in an area of effect.  One of the starting spells for the Fey Faction.
 
-    | Spell Name | Level |
-    | :--- | :--- |
-    | Vinelash | 1 |
-    | Frost Tangle | 4 |
-    | Shadow Roots | 8 |
-    | Heartvine Creepers | 25 |
-    | Devouring Roots| 35 |
+    | Spell Name | Level | Mana | Ticks | Damage |
+    | :---: | :---: | :---: | :---: | :---: |
+    | Vinelash | 1 | ? | ? | ? | ? |
+    | Frost Tangle | 4 | ? | ? | ? | ? |
+    | Shadow Roots | 8 | ? | ? | ? | ? |
+    | Heartvine Creepers | 25 | ? | ? | ? | ? |
+    | Devouring Roots| 35 | ? | ? | ? | ? |
 
     
 ## Description
