@@ -1,4 +1,10 @@
 /* This makes all ## Titles Gold */
+h1 {
+    color: #4fa4b8; 
+    border-bottom: 1px solid #f0b541; /* Adds a nice underline for that RPG look */
+    padding-bottom: 5px;
+}
+
 h2 {
     color: #FFD700; 
     border-bottom: 1px solid #f0b541; /* Adds a nice underline for that RPG look */
