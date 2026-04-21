@@ -1,0 +1,18 @@
+/* This makes all ## Titles Gold */
+h2 {
+    color: #FFD700; 
+    border-bottom: 1px solid #f0b541; /* Adds a nice underline for that RPG look */
+    padding-bottom: 5px;
+}
+
+/* This targets the 'Abstract' box to make the header bold and dark on gold */
+.admonition.abstract > .admonition-title {
+    background-color: #f0b541 !important;
+    color: #1a1a1a !important;
+    font-weight: bold;
+}
+
+/* This makes sure images (like your GIFs) stay pixel-perfect */
+.pixelated {
+    image-rendering: pixelated;
+}
