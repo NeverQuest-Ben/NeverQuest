@@ -41,12 +41,12 @@ The Sorceress is a spellcaster, who fires a projectile attack from distance.  Th
 The Sorceress is a spellcaster, who fires a projectile attack from distance.  They will auto-attack when an enemy is within their spell casting range. 
 !!! info "Priestess - Cleric"
 
-    ![High Lord](../gameAssets/SubclassIcons_Tank_Sorceress0.png){: style="image-rendering: pixelated; width: 32px;" }
-    The High Lord provides decent tanking, and some unlockable skills that help with exploration.  He has the only ability known to increase gold dropped by enemies.
+    ![Cleric](../gameAssets/priestessSubclass_Icons2.png){: style="image-rendering: pixelated; width: 32px;" }
+    The Cleric has high AC and high healing output.  Her unlockable skills provide improved healing and mana regeneration.
 
     | Icon | Skillname | Unlock Level | Description | Rating (D->S) |
     | :---: | :---: | :---: | :---: | :---: |
-    | ![Fireball](../gameAssets/sorceressIcons6.png){: style="image-rendering: pixelated; width: 32px;" } | Fireball | 1 | Transforms primary attack into a fireball | A |
-    | ![Everburn](../gameAssets/sorceressIcons7.png){: style="image-rendering: pixelated; width: 32px;" } | Everburn | 15 | Primary skill applies ticks of Burn | C |
-    | ![Inferno](../gameAssets/sorceressIcons8.png){: style="image-rendering: pixelated; width: 32px;" } | Inferno | 35 | ? | ? |
+    | ![Healing Adept](../gameAssets/priestessAbility_Icons0.png){: style="image-rendering: pixelated; width: 32px;" } | Healing Adept | 1 | Transforms primary attack into a fireball | S |
+    | ![Platemail](../gameAssets/priestessAbility_Icons1.png){: style="image-rendering: pixelated; width: 32px;" } | Platemail | 15 | Primary skill applies ticks of Burn | C |
+    | ![Divine Touch](../gameAssets/priestessAbility_Icons2.png){: style="image-rendering: pixelated; width: 32px;" } | Divine Touch | 35 | ? | C |
 
