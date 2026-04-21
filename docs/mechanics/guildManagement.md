@@ -16,11 +16,11 @@ The Sorceress is a spellcaster, who fires a projectile attack from distance.  Th
 
     The Pyromancer is the highest DPS of the three subclasses, with a higher base damage and ability to apply DOT with their Everburn skill.
 
-    ![Chloroplast](../gameAssets/Spell_Icons_Druid_Chloroplast_Single.png){: style="image-rendering: pixelated; width: 32px;" }
+    ![Fireball](../gameAssets/SubclassIcons_Tank_Sorceress4.png){: style="image-rendering: pixelated; width: 32px;" }
       
-    | Skillname | Unlock Level | Description | Rating (D->S) |
-    | :---: | :---: | :---: |
-    | Fireball | 1 | Transforms primary attack into a fireball | A |
+    | Icon | Skillname | Unlock Level | Description | Rating (D->S) |
+    | :---: | :---: | :---: | :---: |
+    | ![Fireball](../gameAssets/sorceressIcons6.png){: style="image-rendering: pixelated; width: 32px;" } | Fireball | 1 | Transforms primary attack into a fireball | A |
     | Everburn | 15 | Primary skill applies ticks of Burn | C |
     | Heartvine Infusion | 35 | ? | ? |
 
