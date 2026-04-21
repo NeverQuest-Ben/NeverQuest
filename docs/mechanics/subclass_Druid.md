@@ -12,7 +12,7 @@
 
 !!! info "Spell Line - Chloroplast"
 
-    ![Chloroplast](../gameAssets/VinelashIcon_Single.png){: style="image-rendering: pixelated; width: 32px;" }
+    ![Chloroplast](../gameAssets/Spell_Icons_Druid_Chloroplast_Single.png){: style="image-rendering: pixelated; width: 32px;" }
      
     A healing over time spell that heals any allies within the spell area for a short duration.  Advanced versions of the base spell are purchased from the Druid Lore Master.
     
