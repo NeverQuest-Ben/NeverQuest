@@ -1,11 +1,11 @@
 !!! abstract "Aethylsteel Longsword"
 
-![Aethylsteel Longsword](../gameAssets/Aethylsteel_Longsword.png){: style="image-rendering: pixelated; width: 32px;" }
+    ![Aethylsteel Longsword](../gameAssets/Aethylsteel_Longsword.png){: style="image-rendering: pixelated; width: 32px;" }
 
-   *Type: One-Hand Slashing (1HS)*
+    *Type: One-Hand Slashing (1HS)*
 
 
-   The Aethylsteel Longsword is a 1HS weapon, looted from the Cyclops camp in the Northern Gorwilds.  Only the Cyclops beyond the bridge seems to drop this.
+    The Aethylsteel Longsword is a 1HS weapon, looted from the Cyclops camp in the Northern Gorwilds.  Only the Cyclops beyond the bridge seems to drop this.
 
 !!! info "Item Stats"
     * **🏆 Item Level:** 18
