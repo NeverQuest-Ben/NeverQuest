@@ -5,7 +5,7 @@
 The Aethylsteel Longsword is a 1HS weapon, looted from the Cyclops camp in the Northern Gorwilds.  Only the Cyclops beyond the bridge seems to drop this.
 
 !!! info "Item Stats"
-    * **Item Level:** 18
+    * ** 🏆 Item Level:** 18
     * **Damage:** 12
     * **Delay:** 12
     * **Skill:** "1HS"
