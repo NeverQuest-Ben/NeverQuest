@@ -17,6 +17,7 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - Guide: 
   - Items:
     - Aethylsteel Longsword: itemDatabase/Aethylsteel_Longsword.md
   - Subclasses:
