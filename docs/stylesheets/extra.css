@@ -18,6 +18,11 @@ h2 {
     font-weight: bold;
 }
 
+/* This makes the border of the info box gold too, instead of gray/blue */
+.admonition.info {
+    border-color: #FFD700 !important;
+}
+
 /* This makes sure images (like your GIFs) stay pixel-perfect */
 .pixelated {
     image-rendering: pixelated;
