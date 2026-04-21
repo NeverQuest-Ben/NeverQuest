@@ -28,7 +28,7 @@ h2 {
 /* Targets both 'info' AND 'abstract' admonition headers */
 .admonition.info > .admonition-title,
 .admonition.abstract > .admonition-title {
-    background-color: #FFD700 !important; /* Solid Gold */
+    background-color: #4fa4b8 !important; /* SOlid Blue */
     color: #1a1a1a !important;            /* Dark, readable text */
     border-bottom: none;
     font-weight: bold;
