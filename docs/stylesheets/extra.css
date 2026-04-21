@@ -25,14 +25,15 @@ h2 {
     padding-bottom: 5px;
 }
 
-/* This targets the 'Abstract' box to make the header bold and dark on gold */
-.admonition.abstract > .admonition-title {
-    background-color: #f0b541 !important;
-    color: #1a1a1a !important;
+/* Targets the 'info' admonition header specifically */
+.admonition.info > .admonition-title {
+    background-color: #FFD700 !important; /* Solid Gold */
+    color: #1a1a1a !important;            /* Dark, readable text */
+    border-bottom: none;                  /* Removes any thin lines */
     font-weight: bold;
 }
 
-/* This makes the border of the info box gold too, instead of gray/blue */
+/* Optional: Makes the border of the whole box gold to match */
 .admonition.info {
     border-color: #FFD700 !important;
 }
