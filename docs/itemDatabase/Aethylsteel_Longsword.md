@@ -1,4 +1,4 @@
-!!! abstact "Aethylsteel Longsword"
+!!! abstract "Aethylsteel Longsword"
 
 ![Aethylsteel Longsword](../gameAssets/Aethylsteel_Longsword.png){: style="image-rendering: pixelated; width: 32px;" }
 
