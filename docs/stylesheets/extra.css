@@ -1,3 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=Quicksand:wght@400;700&display=swap');
+
+/* Apply a fantasy-style font to all headers */
+h1, h2, h3, .admonition-title {
+    font-family: 'Cinzel', serif;
+    letter-spacing: 1px;
+}
+
+/* Apply a clean, readable font to the body text */
+body, .md-typeset {
+    font-family: 'Quicksand', sans-serif;
+}
+
 /* Targets the main Page Title (#) */
 h1 {
     color: #FFD700 !important; /* Adding !important forces the gold color */
