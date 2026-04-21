@@ -1,4 +1,4 @@
-!!! abstract "Aethylsteel Longsword"
+!!! abstract "Item Information"
 
     ![Aethylsteel Longsword](../gameAssets/Aethylsteel_Longsword.png){: style="image-rendering: pixelated; width: 32px;" }
 
