@@ -2,7 +2,7 @@ site_name: Neverquest Wiki
 
 theme:
   name: material
-  logo: gameAssets/Aethylsteel_Longsword.png
+  logo: gameAssets/NQ32_32_Logo.png
   favicon: gameAssets/Aethylsteel_Longsword.png
   palette:
     scheme: slate
