@@ -14,15 +14,14 @@ The Sorceress is a spellcaster, who fires a projectile attack from distance.  Th
 
 !!! info "Sorceress - Pyromancer"
 
+    ![Fireball](../gameAssets/SubclassIcons_Tank_Sorceress4.png){: style="image-rendering: pixelated; width: 32px;" }
     The Pyromancer is the highest DPS of the three subclasses, with a higher base damage and ability to apply DOT with their Everburn skill.
 
-    ![Fireball](../gameAssets/SubclassIcons_Tank_Sorceress4.png){: style="image-rendering: pixelated; width: 32px;" }
-      
     | Icon | Skillname | Unlock Level | Description | Rating (D->S) |
-    | :---: | :---: | :---: | :---: |
+    | :---: | :---: | :---: | :---: | :---: |
     | ![Fireball](../gameAssets/sorceressIcons6.png){: style="image-rendering: pixelated; width: 32px;" } | Fireball | 1 | Transforms primary attack into a fireball | A |
     | ![Everburn](../gameAssets/sorceressIcons7.png){: style="image-rendering: pixelated; width: 32px;" } | Everburn | 15 | Primary skill applies ticks of Burn | C |
-    | ![Everburn](../gameAssets/sorceressIcons8.png){: style="image-rendering: pixelated; width: 32px;" } | Inferno | 35 | ? | ? |
+    | ![Inferno](../gameAssets/sorceressIcons8.png){: style="image-rendering: pixelated; width: 32px;" } | Inferno | 35 | ? | ? |
 
 
  
