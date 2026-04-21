@@ -25,16 +25,24 @@ h2 {
     padding-bottom: 5px;
 }
 
-/* Targets the 'info' admonition header specifically */
-.admonition.info > .admonition-title {
+/* Targets both 'info' AND 'abstract' admonition headers */
+.admonition.info > .admonition-title,
+.admonition.abstract > .admonition-title {
     background-color: #FFD700 !important; /* Solid Gold */
     color: #1a1a1a !important;            /* Dark, readable text */
-    border-bottom: none;                  /* Removes any thin lines */
+    border-bottom: none;
     font-weight: bold;
 }
 
-/* Optional: Makes the border of the whole box gold to match */
-.admonition.info {
+/* This makes the little icons dark so they don't stay white/blue */
+.admonition.info > .admonition-title::before,
+.admonition.abstract > .admonition-title::before {
+    background-color: #1a1a1a !important;
+}
+
+/* Makes the borders of both boxes gold to match */
+.admonition.info,
+.admonition.abstract {
     border-color: #FFD700 !important;
 }
 
