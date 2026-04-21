@@ -4,8 +4,9 @@
 
     *Type: Hybrid Spell Caster*
 
-
-    The Aethylsteel Longsword is a 1HS weapon, looted from the Cyclops camp in the Northern Gorwilds.  Only the Cyclops beyond the bridge seems to drop this.
+    The Druid is a hybrid spell caster capable of direct damage, damage over time,  healing, healing over time, and slowing enemy movement speed. 
+    This is the starting Class for the Fey.  
+    
     
 ## Spell Lines
 
