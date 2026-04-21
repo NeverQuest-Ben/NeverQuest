@@ -17,3 +17,6 @@ nav:
   - Home: index.md
   - Items:
     - Aethylsteel Longsword: itemDatabase/Aethylsteel_Longsword.md
+
+extra_css:
+  - stylesheets/extra.css
