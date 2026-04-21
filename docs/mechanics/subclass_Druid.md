@@ -1,6 +1,6 @@
 !!! abstract "Subclass Information"
 
-    ![Druid](../gameAssets/Aethylsteel_Longsword.png){: style="image-rendering: pixelated; width: 32px;" }
+    ![Druid](../gameAssets/Druid_Animated_Icon_1x.gif){: style="image-rendering: pixelated; width: 32px;" }
 
     *Type: Hybrid Spell Caster*
 
