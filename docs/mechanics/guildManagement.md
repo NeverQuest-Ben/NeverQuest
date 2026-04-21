@@ -3,6 +3,11 @@ In NeverQuest, players can create and manage a guild that is full of NPC players
 Guild members can be recruited for grouping with (grinding XP, or killing rare monsters) or for raiding with (challenging very difficult higher level monsters).
 
 ### Strategy and Team Building
+!!! info Grouping and XP Grinding
+    **The Classic:** 1 x Cleric, 1 x High Lord, 2 x Pyromancer
+    One of the most balanced groups, able to provide high DPS as well as sustain even when pulling multiple monsters.
+     **Kiting:** 2 x Pyromancer, 1 x Archmage
+    Works great when utilizing Druid or Ranger skills that can Root or Snare.  Pyromancers provide big DPS and Burn, Archmage provides crowd control.
 
 ### Guildmate Items
 
@@ -25,7 +30,7 @@ The Sorceress is a spellcaster, who fires a projectile attack from distance.  Th
 
 
 ### Warrior
-The Sorceress is a spellcaster, who fires a projectile attack from distance.  They will auto-attack when an enemy is within their spell casting range. 
+The Warrior is a tank who excels at mitigating damage and maintaining aggro in a group or raid setting.  The three subclasses are {High Lord, Berserker, Myrmidon}.
 !!! info "Warrior - High Lord"
 
     ![High Lord](../gameAssets/SubclassIcons_Tank_Sorceress0.png){: style="image-rendering: pixelated; width: 32px;" }
@@ -38,7 +43,7 @@ The Sorceress is a spellcaster, who fires a projectile attack from distance.  Th
     | ![Inferno](../gameAssets/sorceressIcons8.png){: style="image-rendering: pixelated; width: 32px;" } | Inferno | 35 | ? | ? |
 
 ### Priestess
-The Sorceress is a spellcaster, who fires a projectile attack from distance.  They will auto-attack when an enemy is within their spell casting range. 
+The priestess is a plate wearing healer, able to heal from a distance with a projectile orb.  Also capable as a tank in certain scenarios - the Priestess does not deal melee damage when tanking but she will continue to heal.
 !!! info "Priestess - Cleric"
 
     ![Cleric](../gameAssets/priestessSubclass_Icons2.png){: style="image-rendering: pixelated; width: 32px;" }
