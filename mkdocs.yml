@@ -4,7 +4,8 @@ theme:
   name: material
   palette:
     scheme: slate
-    primary: purple
+    primary: amber
+    accent: amber
 
 markdown_extensions:
   - admonition
