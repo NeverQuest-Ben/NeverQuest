@@ -2,6 +2,7 @@ site_name: Neverquest Wiki
 
 theme:
   name: material
+  logo: gameAssets/Neverquest_NQ_logo.png
   palette:
     scheme: slate
     primary: amber
