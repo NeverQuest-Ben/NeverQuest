@@ -1,8 +1,9 @@
-/* This makes all ## Titles Gold */
+/* Targets the main Page Title (#) */
 h1 {
-    color: #4fa4b8; 
-    border-bottom: 1px solid #f0b541; /* Adds a nice underline for that RPG look */
-    padding-bottom: 5px;
+    color: #FFD700 !important; /* Adding !important forces the gold color */
+    border-bottom: 2px solid #FFD700; /* Keeps your sharp gold underline */
+    padding-bottom: 10px;
+    margin-top: 20px;
 }
 
 h2 {
