@@ -8,9 +8,13 @@
     The Aethylsteel Longsword is a 1HS weapon, looted from the Cyclops camp in the Northern Gorwilds.  Only the Cyclops beyond the bridge seems to drop this.
 
 !!! info "Starting Spell Lines"
-    * **✨ Vinelash** "Slows enemy movement [debuff]"
-    * **✨ Chloroplast:** "Heals your target over time [healing]"
-    * **✨ Lightning Strike:** "Deals direct damage to enemies in casting area [direct damage]"
+    | Spell Name | Level |
+    | :--- | :--- |
+    | Minor Heal | 1 |
+    | Searing Flash | 4 |
+    | Aethylyra's Shield | 8 |
+    | Star-Forge Strike | 15 |
+
  
 !!! info "Advanced Spell Lines"
     * **✨ Vinelash** "Slows enemy movement [debuff]"
