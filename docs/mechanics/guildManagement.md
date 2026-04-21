@@ -21,8 +21,8 @@ The Sorceress is a spellcaster, who fires a projectile attack from distance.  Th
     | Icon | Skillname | Unlock Level | Description | Rating (D->S) |
     | :---: | :---: | :---: | :---: |
     | ![Fireball](../gameAssets/sorceressIcons6.png){: style="image-rendering: pixelated; width: 32px;" } | Fireball | 1 | Transforms primary attack into a fireball | A |
-    | Everburn | 15 | Primary skill applies ticks of Burn | C |
-    | Heartvine Infusion | 35 | ? | ? |
+    | ![Everburn](../gameAssets/sorceressIcons7.png){: style="image-rendering: pixelated; width: 32px;" } | Everburn | 15 | Primary skill applies ticks of Burn | C |
+    | ![Everburn](../gameAssets/sorceressIcons8.png){: style="image-rendering: pixelated; width: 32px;" } | Inferno | 35 | ? | ? |
 
 
  
