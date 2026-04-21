@@ -17,6 +17,8 @@ nav:
   - Home: index.md
   - Items:
     - Aethylsteel Longsword: itemDatabase/Aethylsteel_Longsword.md
+  - Subclasses:
+    - Druid: mechanics/subclass_Druid.md
 
 extra_css:
   - stylesheets/extra.css
