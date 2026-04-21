@@ -12,6 +12,8 @@
 
 !!! info "Spell Line - Chloroplast"
 
+    ![Chloroplast](../gameAssets/VinelashIcon_Single.png){: style="image-rendering: pixelated; width: 32px;" }
+     
     A healing over time spell that heals any allies within the spell area for a short duration.  Advanced versions of the base spell are purchased from the Druid Lore Master.
     
     | Spell Name | Level |
@@ -25,6 +27,8 @@
 
  
 !!! info "Spell Line - Vinelash "
+
+    ![Vinelash](../gameAssets/VinelashIcon_Single.png){: style="image-rendering: pixelated; width: 32px;" }
 
     A debuff spell, that slows enemy movement in an area of effect.  One of the starting spells for the Fey Faction.
 
