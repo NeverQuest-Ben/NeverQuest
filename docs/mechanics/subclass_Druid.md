@@ -1,23 +1,21 @@
-# A Weapon Item
+!!! abstract "Subclass Information"
 
-![Item Icon](../../assets/sprites/iron_sword.png){: style="image-rendering: pixelated; width: 64px;" }
+    ![Druid](../gameAssets/Aethylsteel_Longsword.png){: style="image-rendering: pixelated; width: 32px;" }
 
-Iron Sword is a basic melee weapon available early in the game.
+    *Type: Hybrid Spell Caster*
 
-!!! info "Item Stats"
-    * **Item Level:** 18
 
-    * **Damage:** 12
-    * **Delay:** 12
-    * **Skill:** "1HS"
-    * **Proc Effect:** "Unknown"
-    * **Base Stats:** "{STR,DEX}"
+    The Aethylsteel Longsword is a 1HS weapon, looted from the Cyclops camp in the Northern Gorwilds.  Only the Cyclops beyond the bridge seems to drop this.
+
+!!! info "Starting Spell Lines"
+    * **✨ Vinelash** "Slows enemy movement [debuff]"
+    * **✨ Chloroplast:** "Heals your target over time [healing]"
+    * **✨ Lightning Strike:** "Deals direct damage to enemies in casting area [direct damage]"
+ 
+!!! info "Advanced Spell Lines"
+    * **✨ Vinelash** "Slows enemy movement [debuff]"
+    * **✨ Chloroplast:** "Heals your target over time [healing]"
+    * **✨ Lightning Strike:** "Deals direct damage to enemies in casting area [direct damage]"
     
-
 ## Description
-A standard-issue sword crafted from tempered iron. Reliable, though not particularly powerful.
-
-## Acquisition
-- **Open World Drop:** Known to drop from Cyclops in the Northern Gorwild area.
-- **Typical Level to Obtain:** Around level 15, lower if grouping with Guildmates.
-- **Vendor:** None
+The Druid is a hybrid spell caster.
