@@ -6,9 +6,11 @@ Guild members can be recruited for grouping with (grinding XP, or killing rare m
 !!! info "Grouping and XP Grinding"
 
     **The Classic:** 1 x Cleric, 1 x High Lord, 2 x Pyromancer
+    
     One of the most balanced groups, able to provide high DPS as well as sustain even when pulling multiple monsters.
     
      **Kiting:** 2 x Pyromancer, 1 x Archmage
+   
     Works great when utilizing Druid or Ranger skills that can Root or Snare.  Pyromancers provide big DPS and Burn, Archmage provides crowd control.
 
 ### Guildmate Items
