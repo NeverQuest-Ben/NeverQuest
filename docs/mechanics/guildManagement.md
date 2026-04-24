@@ -42,9 +42,9 @@ The Warrior is a tank who excels at mitigating damage and maintaining aggro in a
 
     | Icon | Skillname | Unlock Level | Description | Rating (D->S) |
     | :---: | :---: | :---: | :---: | :---: |
-    | ![Fireball](../gameAssets/sorceressIcons6.png){: style="image-rendering: pixelated; width: 32px;" } | Fireball | 1 | Transforms primary attack into a fireball | A |
-    | ![Everburn](../gameAssets/sorceressIcons7.png){: style="image-rendering: pixelated; width: 32px;" } | Everburn | 15 | Primary skill applies ticks of Burn | C |
-    | ![Inferno](../gameAssets/sorceressIcons8.png){: style="image-rendering: pixelated; width: 32px;" } | Inferno | 35 | ? | ? |
+    | ![Inspire](../gameAssets/tankSkill_Icons0.png){: style="image-rendering: pixelated; width: 32px;" } | Inspire | 1 | Group members gain STR and DEX | S |
+    | ![Tax Collector](../gameAssets/tankSkill_Icons1.png){: style="image-rendering: pixelated; width: 32px;" } | Tax Collector | 15 | Additional gold is gained from monsters | B |
+    | ![Lone Warrior](../gameAssets/tankSkill_Icons2.png){: style="image-rendering: pixelated; width: 32px;" } | Lone Warrior | 35 | High Lord gains additional damage and stats if he is the only warrior in the group | A |
 
 ### Priestess
 The priestess is a plate wearing healer, able to heal from a distance with a projectile orb.  Also capable as a tank in certain scenarios - the Priestess does not deal melee damage when tanking but she will continue to heal.
