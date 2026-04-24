@@ -37,7 +37,18 @@ The Sorceress is a spellcaster, who fires a projectile attack from distance.  Th
 The Warrior is a tank who excels at mitigating damage and maintaining aggro in a group or raid setting.  The three subclasses are {High Lord, Berserker, Myrmidon}.
 !!! info "Warrior - High Lord"
 
-    ![High Lord](../gameAssets/SubclassIcons_Tank_Sorceress0.png){: style="image-rendering: pixelated; width: 32px;" }
+    ![High Lord](../gameAssets/SubclassIcons_Tank_Sorceress1.png){: style="image-rendering: pixelated; width: 32px;" }
+    The Myrmidon is a classic tank.  High Armor Class and damage mitigation, and abilities to generate and maintain aggro.  The perfect solution for high damage scenarios like Raiding or difficult camps for XP grouping.
+
+    | Icon | Skillname | Unlock Level | Description | Rating (D->S) |
+    | :---: | :---: | :---: | :---: | :---: |
+    | ![Master Armorer](../gameAssets/tankSkill_Icons3.png){: style="image-rendering: pixelated; width: 32px;" } | Master Armorer | 1 | Gain additional AC from worn items | S |
+    | ![Plate Mail](../gameAssets/tankSkill_Icons4.png){: style="image-rendering: pixelated; width: 32px;" } | Plate Mail | 15 | Your AC cap is raised | S |
+    | ![Taunt](../gameAssets/tankSkill_Icons5.png){: style="image-rendering: pixelated; width: 32px;" } | Taunt | 35 | Emit a particularly offensive Taunt, inciting rage in your enemies and gaining a spot at the top of the aggro list | A |
+
+!!! info "Warrior - Myrmidon"
+
+    ![Myrmidon](../gameAssets/SubclassIcons_Tank_Sorceress0.png){: style="image-rendering: pixelated; width: 32px;" }
     The High Lord provides decent tanking, and some unlockable skills that help with exploration.  He has the only ability known to increase gold dropped by enemies.
 
     | Icon | Skillname | Unlock Level | Description | Rating (D->S) |
@@ -45,6 +56,8 @@ The Warrior is a tank who excels at mitigating damage and maintaining aggro in a
     | ![Inspire](../gameAssets/tankSkill_Icons0.png){: style="image-rendering: pixelated; width: 32px;" } | Inspire | 1 | Group members gain STR and DEX | S |
     | ![Tax Collector](../gameAssets/tankSkill_Icons1.png){: style="image-rendering: pixelated; width: 32px;" } | Tax Collector | 15 | Additional gold is gained from monsters | B |
     | ![Lone Warrior](../gameAssets/tankSkill_Icons2.png){: style="image-rendering: pixelated; width: 32px;" } | Lone Warrior | 35 | High Lord gains additional damage and stats if he is the only warrior in the group | A |
+
+
 
 ### Priestess
 The priestess is a plate wearing healer, able to heal from a distance with a projectile orb.  Also capable as a tank in certain scenarios - the Priestess does not deal melee damage when tanking but she will continue to heal.
