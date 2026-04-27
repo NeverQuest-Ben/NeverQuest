@@ -91,9 +91,10 @@ The Warrior is a tank who excels at mitigating damage and maintaining aggro in a
 
 ### Priestess
 The priestess is a plate wearing healer, able to heal from a distance with a projectile orb.  Also capable as a tank in certain scenarios - the Priestess does not deal melee damage when tanking but she will continue to heal.
+
 !!! info "Priestess - Cleric"
 
-    ![Cleric](../gameAssets/priestessSubclass_Icons2.png){: style="image-rendering: pixelated; width: 32px;" }
+    ![Cleric](../gameAssets/priestessSubclass_Icons1.png){: style="image-rendering: pixelated; width: 32px;" }
     The Cleric has high AC and high healing output.  Her unlockable skills provide improved healing and mana regeneration.
 
     | Icon | Skillname | Unlock Level | Description | Rating (D->S) |
@@ -101,4 +102,25 @@ The priestess is a plate wearing healer, able to heal from a distance with a pro
     | ![Healing Adept](../gameAssets/priestessAbility_Icons0.png){: style="image-rendering: pixelated; width: 32px;" } | Healing Adept | 1 | Transforms primary attack into a fireball | S |
     | ![Platemail](../gameAssets/priestessAbility_Icons1.png){: style="image-rendering: pixelated; width: 32px;" } | Platemail | 15 | Primary skill applies ticks of Burn | C |
     | ![Divine Touch](../gameAssets/priestessAbility_Icons2.png){: style="image-rendering: pixelated; width: 32px;" } | Divine Touch | 35 | ? | C |
+    
+ !!! info "Priestess - Valkyrie"
 
+    ![Valkyrie](../gameAssets/priestessSubclass_Icons0.png){: style="image-rendering: pixelated; width: 32px;" }
+    The Valkyrie is a warrior cleric, that heals better when tanking damage.  The Valkyrie is the only subclass with the ability to perform a critical heal.  I wouldn't mess with a group of Valkyrie.
+
+    | Icon | Skillname | Unlock Level | Description | Rating (D->S) |
+    | :---: | :---: | :---: | :---: | :---: |
+    | ![Critical Heal](../gameAssets/priestessAbility_Icons3.png){: style="image-rendering: pixelated; width: 32px;" } | Critical Heal | 1 | ? | S |
+    | ![Overflowing Mana](../gameAssets/priestessAbility_Icons4.png){: style="image-rendering: pixelated; width: 32px;" } | Overflowing Mana | 15 | ? | S |
+    | ![Phalanx](../gameAssets/priestessAbility_Icons5.png){: style="image-rendering: pixelated; width: 32px;" } | Phalanx | 35 | ? | D |
+    
+ !!! info "Priestess - Revenant"
+
+    ![Revenant](../gameAssets/priestessSubclass_Icons3.png){: style="image-rendering: pixelated; width: 32px;" }
+    The Revenant provides the only source of shared damage mitigation in the game by tapping into some particularly dark magick.
+
+    | Icon | Skillname | Unlock Level | Description | Rating (D->S) |
+    | :---: | :---: | :---: | :---: | :---: |
+    | ![Critical Heal](../gameAssets/priestessAbility_Icons6.png){: style="image-rendering: pixelated; width: 32px;" } | Critical Heal | 1 | ? | S |
+    | ![Overflowing Mana](../gameAssets/priestessAbility_Icons7.png){: style="image-rendering: pixelated; width: 32px;" } | Overflowing Mana | 15 | ? | S |
+    | ![Phalanx](../gameAssets/priestessAbility_Icons8.png){: style="image-rendering: pixelated; width: 32px;" } | Phalanx | 35 | ? | D |
