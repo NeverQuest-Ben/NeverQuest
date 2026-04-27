@@ -14,8 +14,15 @@ Guild members can be recruited for grouping with (grinding XP, or killing rare m
     Works great when utilizing Druid or Ranger skills that can Root or Snare.  Pyromancers provide big DPS and Burn, Archmage provides crowd control.
 
 ### Guildmate Items
-Each guildmate can equip 5 items : [Chest, Hands, Feet, Head, Weapon] similar to the main character.
+Each guildmate can equip 5 items : [Chest, Hands, Feet, Head, Weapon] similar to your playable character.  In the guild menu you can choose each Class and equip the items using the interface there.  Each guildmate of that class will utilize whatever items you equip! 
 
+### Guildmate Recruiting
+As you level up your guild, more recruits will be available to you.  You can recruit guild members at any time as much as you want, but each recruitment costs a certain amount of gold pieces (GP). Each potential recruit has a set of hidden stats that only become available when they join the guild - stats range from D to SS.  SS guild members are extremely rare, and can be really valuable if you eventually begin raiding with your guild.  You can view their stats and subclass using the Details button on the guild roster.
+
+For tanks, you want to land high HP and AC. For casters you want high WIS and MANA.
+
+### Leveling Up Guildmates
+Guildmates accumulate experience when they group and raid with you.  Only the guild members present in the group or raid will accumulate experience points (XP).  Your groups XP is divided evenly to each group member (including you!).  When your group is full (5 members total) you will receive a small bonus XP multiplier.  Choose your companions wisely - you don't want to invest time and XP into guild mates with low base stats (C or below).  
 
 ## Guildmate Classes & Subclasses
 Each guildmate can have 1 of 3 subclasses, which are randomly selected when you recruit them.
