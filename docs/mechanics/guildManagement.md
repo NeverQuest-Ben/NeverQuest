@@ -103,7 +103,7 @@ The priestess is a plate wearing healer, able to heal from a distance with a pro
     | ![Platemail](../gameAssets/priestessAbility_Icons1.png){: style="image-rendering: pixelated; width: 32px;" } | Platemail | 15 | Primary skill applies ticks of Burn | C |
     | ![Divine Touch](../gameAssets/priestessAbility_Icons2.png){: style="image-rendering: pixelated; width: 32px;" } | Divine Touch | 35 | ? | C |
     
- !!! info "Priestess - Valkyrie"
+!!! info "Priestess - Valkyrie"
 
     ![Valkyrie](../gameAssets/priestessSubclass_Icons0.png){: style="image-rendering: pixelated; width: 32px;" }
     The Valkyrie is a warrior cleric, that heals better when tanking damage.  The Valkyrie is the only subclass with the ability to perform a critical heal.  I wouldn't mess with a group of Valkyrie.
@@ -114,7 +114,7 @@ The priestess is a plate wearing healer, able to heal from a distance with a pro
     | ![Overflowing Mana](../gameAssets/priestessAbility_Icons4.png){: style="image-rendering: pixelated; width: 32px;" } | Overflowing Mana | 15 | ? | S |
     | ![Phalanx](../gameAssets/priestessAbility_Icons5.png){: style="image-rendering: pixelated; width: 32px;" } | Phalanx | 35 | ? | D |
     
- !!! info "Priestess - Revenant"
+!!! info "Priestess - Revenant"
 
     ![Revenant](../gameAssets/priestessSubclass_Icons3.png){: style="image-rendering: pixelated; width: 32px;" }
     The Revenant provides the only source of shared damage mitigation in the game by tapping into some particularly dark magick.
