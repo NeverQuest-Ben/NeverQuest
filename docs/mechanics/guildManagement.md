@@ -35,9 +35,9 @@ The Sorceress is a spellcaster, who fires a projectile attack from distance.  Th
 
 ### Warrior
 The Warrior is a tank who excels at mitigating damage and maintaining aggro in a group or raid setting.  The three subclasses are {High Lord, Berserker, Myrmidon}.
-!!! info "Warrior - High Lord"
+!!! info "Warrior - Myrmidon"
 
-    ![High Lord](../gameAssets/SubclassIcons_Tank_Sorceress1.png){: style="image-rendering: pixelated; width: 32px;" }
+    ![Myrmidon](../gameAssets/SubclassIcons_Tank_Sorceress1.png){: style="image-rendering: pixelated; width: 32px;" }
     The Myrmidon is a classic tank.  High Armor Class and damage mitigation, and abilities to generate and maintain aggro.  The perfect solution for high damage scenarios like Raiding or difficult camps for XP grouping.
 
     | Icon | Skillname | Unlock Level | Description | Rating (D->S) |
@@ -46,9 +46,9 @@ The Warrior is a tank who excels at mitigating damage and maintaining aggro in a
     | ![Plate Mail](../gameAssets/tankSkill_Icons4.png){: style="image-rendering: pixelated; width: 32px;" } | Plate Mail | 15 | Your AC cap is raised | S |
     | ![Taunt](../gameAssets/tankSkill_Icons5.png){: style="image-rendering: pixelated; width: 32px;" } | Taunt | 35 | Emit a particularly offensive Taunt, inciting rage in your enemies and gaining a spot at the top of the aggro list | A |
 
-!!! info "Warrior - Myrmidon"
+!!! info "Warrior - High Lord"
 
-    ![Myrmidon](../gameAssets/SubclassIcons_Tank_Sorceress0.png){: style="image-rendering: pixelated; width: 32px;" }
+    ![High Lord](../gameAssets/SubclassIcons_Tank_Sorceress0.png){: style="image-rendering: pixelated; width: 32px;" }
     The High Lord provides decent tanking, and some unlockable skills that help with exploration.  He has the only ability known to increase gold dropped by enemies.
 
     | Icon | Skillname | Unlock Level | Description | Rating (D->S) |
