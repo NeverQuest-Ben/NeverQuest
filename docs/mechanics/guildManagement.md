@@ -14,6 +14,8 @@ Guild members can be recruited for grouping with (grinding XP, or killing rare m
     Works great when utilizing Druid or Ranger skills that can Root or Snare.  Pyromancers provide big DPS and Burn, Archmage provides crowd control.
 
 ### Guildmate Items
+Each guildmate can equip 5 items : [Chest, Hands, Feet, Head, Weapon] similar to the main character.
+
 
 ## Guildmate Classes & Subclasses
 Each guildmate can have 1 of 3 subclasses, which are randomly selected when you recruit them.
