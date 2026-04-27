@@ -23,7 +23,7 @@ The Sorceress is a spellcaster, who fires a projectile attack from distance.  Th
 
 !!! info "Sorceress - Pyromancer"
 
-    ![Fireball](../gameAssets/SubclassIcons_Tank_Sorceress4.png){: style="image-rendering: pixelated; width: 32px;" }
+    ![Pyromancer](../gameAssets/SubclassIcons_Tank_Sorceress4.png){: style="image-rendering: pixelated; width: 32px;" }
     The Pyromancer is the highest DPS of the three subclasses, with a higher base damage and ability to apply DOT with their Everburn skill.
 
     | Icon | Skillname | Unlock Level | Description | Rating (D->S) |
@@ -31,7 +31,28 @@ The Sorceress is a spellcaster, who fires a projectile attack from distance.  Th
     | ![Fireball](../gameAssets/sorceressIcons6.png){: style="image-rendering: pixelated; width: 32px;" } | Fireball | 1 | Transforms primary attack into a fireball | A |
     | ![Everburn](../gameAssets/sorceressIcons7.png){: style="image-rendering: pixelated; width: 32px;" } | Everburn | 15 | Primary skill applies ticks of Burn | C |
     | ![Inferno](../gameAssets/sorceressIcons8.png){: style="image-rendering: pixelated; width: 32px;" } | Inferno | 35 | ? | ? |
+    
+!!! info "Sorceress - Arch Mage"
 
+    ![Archmage](../gameAssets/SubclassIcons_Tank_Sorceress3.png){: style="image-rendering: pixelated; width: 32px;" }
+    The Archmage is a balanced caster combining shielding and survivability with DPS from distance. The Archmage fits well in kiting groups.
+
+    | Icon | Skillname | Unlock Level | Description | Rating (D->S) |
+    | :---: | :---: | :---: | :---: | :---: |
+    | ![?](../gameAssets/sorceressIcons3.png){: style="image-rendering: pixelated; width: 32px;" } | ? | 1 | ? | A |
+    | ![Teleport](../gameAssets/sorceressIcons4.png){: style="image-rendering: pixelated; width: 32px;" } | Teleport | 15 | Teleport a short distance away after taking damage | S |
+    | ![Arch Shielding](../gameAssets/sorceressIcons5.png){: style="image-rendering: pixelated; width: 32px;" } | Arch Shielding | 35 | ? | ? |
+    
+!!! info "Sorceress - Enchantress"
+
+    ![Enchantress](../gameAssets/SubclassIcons_Tank_Sorceress5.png){: style="image-rendering: pixelated; width: 32px;" }
+    The Enchantress provides crowd control and mana regeneration for the group.  Mana regeneration is a rare ability / perk.
+
+    | Icon | Skillname | Unlock Level | Description | Rating (D->S) |
+    | :---: | :---: | :---: | :---: | :---: |
+    | ![Mana Beam](../gameAssets/sorceressIcons0.png){: style="image-rendering: pixelated; width: 32px;" } | Mana Beam | 1 | ? | ? |
+    | ![Clarity](../gameAssets/sorceressIcons1.png){: style="image-rendering: pixelated; width: 32px;" } | Clarity | 15 | ? | ? |
+    | ![Peaceful Thought](../gameAssets/sorceressIcons2.png){: style="image-rendering: pixelated; width: 32px;" } | Peaceful Thought | 35 | ? | ? |
 
 ### Warrior
 The Warrior is a tank who excels at mitigating damage and maintaining aggro in a group or raid setting.  The three subclasses are {High Lord, Berserker, Myrmidon}.
@@ -57,7 +78,16 @@ The Warrior is a tank who excels at mitigating damage and maintaining aggro in a
     | ![Tax Collector](../gameAssets/tankSkill_Icons1.png){: style="image-rendering: pixelated; width: 32px;" } | Tax Collector | 15 | Additional gold is gained from monsters | B |
     | ![Lone Warrior](../gameAssets/tankSkill_Icons2.png){: style="image-rendering: pixelated; width: 32px;" } | Lone Warrior | 35 | High Lord gains additional damage and stats if he is the only warrior in the group | A |
 
+!!! info "Warrior - Berserker"
 
+    ![Berserker](../gameAssets/SubclassIcons_Tank_Sorceress2.png){: style="image-rendering: pixelated; width: 32px;" }
+    The Berserker provides additional DPS at the expense of utility and tankability.  A good pick when you can provide main tanking for your group, or you are running multiple Warriors in your group.
+
+    | Icon | Skillname | Unlock Level | Description | Rating (D->S) |
+    | :---: | :---: | :---: | :---: | :---: |
+    | ![Berserk](../gameAssets/tankSkill_Icons6.png){: style="image-rendering: pixelated; width: 32px;" } | Berserk | 1 | Deals additional damage when more enemies are nearby | A |
+    | ![Critical](../gameAssets/tankSkill_Icons7.png){: style="image-rendering: pixelated; width: 32px;" } | Critical | 15 | Gains crit. rate | A |
+    | ![Flaming Flamberge](../gameAssets/tankSkill_Icons8.png){: style="image-rendering: pixelated; width: 32px;" } | Flaming Flamberge | 35 | Attacks also apply burn damage | B |
 
 ### Priestess
 The priestess is a plate wearing healer, able to heal from a distance with a projectile orb.  Also capable as a tank in certain scenarios - the Priestess does not deal melee damage when tanking but she will continue to heal.
