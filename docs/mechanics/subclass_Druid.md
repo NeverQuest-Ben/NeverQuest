@@ -42,7 +42,7 @@
  
 !!! info "Spell Line - Minor Healing "
 
-    ![Minor Healing](../gameAssets/druidSpellSingles05.png){: style="image-rendering: pixelated; width: 32px;" }
+    ![Minor Healing](../gameAssets/druidSpellSingles04.png){: style="image-rendering: pixelated; width: 32px;" }
 
     A instant heal, that recovers a portion of your HP.
 
@@ -54,6 +54,21 @@
     | Replenishment of the Grove | 25 | ? | ? | ? | ? |
     | Heartvine Infusion | 40 | ? | ? | ? | ? |
     | Intervention of the Goddess | 50 | ? | ? | ? | ? |
+    
+!!! info "Spell Line - Sporecloud "
+
+    ![Sporecloud](../gameAssets/druidSpellSingles02.png){: style="image-rendering: pixelated; width: 32px;" }
+
+    A damage over time spell, providing SV_DECAY based damage
+
+    | Spell Name | Level | Mana | Ticks | Damage |
+    | :---: | :---: | :---: | :---: | :---: |
+    | Sporecloud | 2 | ? | ? | ? | ? |
+    | Blackcap Cloud | 5 | ? | ? | ? | ? |
+    | Destroying Angel Cloud | 13 | ? | ? | ? | ? |
+    | Funeral Bell Cloud | 20 | ? | ? | ? | ? |
+    | Panthercap Cloud | 30 | ? | ? | ? | ? |
+    | Ancient: Doomcap Cloud | 40 | ? | ? | ? | ? |
     
 ## Description
 The Druid is a hybrid spell caster.
