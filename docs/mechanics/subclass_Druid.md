@@ -39,7 +39,20 @@
     | Shadow Roots | 8 | ? | ? | ? | ? |
     | Heartvine Creepers | 25 | ? | ? | ? | ? |
     | Devouring Roots| 35 | ? | ? | ? | ? |
+ 
+!!! info "Spell Line - Minor Healing "
 
+    ![Minor Healing](../gameAssets/VinelashIcon_Single.png){: style="image-rendering: pixelated; width: 32px;" }
+
+    A debuff spell, that slows enemy movement in an area of effect.  One of the starting spells for the Fey Faction.
+
+    | Spell Name | Level | Mana | Ticks | Damage |
+    | :---: | :---: | :---: | :---: | :---: |
+    | Vinelash | 1 | ? | ? | ? | ? |
+    | Frost Tangle | 4 | ? | ? | ? | ? |
+    | Shadow Roots | 8 | ? | ? | ? | ? |
+    | Heartvine Creepers | 25 | ? | ? | ? | ? |
+    | Devouring Roots| 35 | ? | ? | ? | ? |
     
 ## Description
 The Druid is a hybrid spell caster.
