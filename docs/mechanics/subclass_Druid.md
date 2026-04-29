@@ -42,17 +42,18 @@
  
 !!! info "Spell Line - Minor Healing "
 
-    ![Minor Healing](../gameAssets/VinelashIcon_Single.png){: style="image-rendering: pixelated; width: 32px;" }
+    ![Minor Healing](../gameAssets/druidSpellSingles05.png){: style="image-rendering: pixelated; width: 32px;" }
 
-    A debuff spell, that slows enemy movement in an area of effect.  One of the starting spells for the Fey Faction.
+    A instant heal, that recovers a portion of your HP.
 
     | Spell Name | Level | Mana | Ticks | Damage |
     | :---: | :---: | :---: | :---: | :---: |
-    | Vinelash | 1 | ? | ? | ? | ? |
-    | Frost Tangle | 4 | ? | ? | ? | ? |
-    | Shadow Roots | 8 | ? | ? | ? | ? |
-    | Heartvine Creepers | 25 | ? | ? | ? | ? |
-    | Devouring Roots| 35 | ? | ? | ? | ? |
+    | Minor Healing | 5 | ? | ? | ? | ? |
+    | Healing | 10 | ? | ? | ? | ? |
+    | Earthen Renewal | 17 | ? | ? | ? | ? |
+    | Replenishment of the Grove | 25 | ? | ? | ? | ? |
+    | Heartvine Infusion | 40 | ? | ? | ? | ? |
+    | Intervention of the Goddess | 50 | ? | ? | ? | ? |
     
 ## Description
 The Druid is a hybrid spell caster.
