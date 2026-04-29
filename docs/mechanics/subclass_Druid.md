@@ -30,7 +30,7 @@
 
     ![Vinelash](../gameAssets/VinelashIcon_Single.png){: style="image-rendering: pixelated; width: 32px;" }
 
-    A debuff spell, that slows enemy movement in an area of effect.  One of the starting spells for the Fey Faction.
+    A debuff spell, that slows enemy movement in an area of effect.  One of the starting spells for the Fey Faction.  Spell tome can be purchased from the Druid Lore Master in Lyrinta.
 
     | Spell Name | Level | Mana | Ticks | Damage |
     | :---: | :---: | :---: | :---: | :---: |
@@ -59,7 +59,7 @@
 
     ![Sporecloud](../gameAssets/druidSpellSingles02.png){: style="image-rendering: pixelated; width: 32px;" }
 
-    A damage over time spell, providing SV_DECAY based damage
+    A damage over time spell, providing SV_DECAY based damage.  Spell tome can be purchased from the Druid loremaster in Lyrinta.  Ancient location is unknown.
 
     | Spell Name | Level | Mana | Ticks | Damage |
     | :---: | :---: | :---: | :---: | :---: |
@@ -69,6 +69,22 @@
     | Funeral Bell Cloud | 20 | ? | ? | ? | ? |
     | Panthercap Cloud | 30 | ? | ? | ? | ? |
     | Ancient: Doomcap Cloud | 40 | ? | ? | ? | ? |
+    
+!!! info "Spell Line - Lightning Strike "
+
+    ![Lightning Strike](../gameAssets/druidSpellSingles06.png){: style="image-rendering: pixelated; width: 32px;" }
+
+    A direct damage spell, dealing SV_ELEMENTAL damage to enemies in an AOE.  Spell tome can be purchased from the Druid lore master in Lyrinta.  Ancient location unknown.
+
+    | Spell Name | Level | Mana | Ticks | Damage |
+    | :---: | :---: | :---: | :---: | :---: |
+    | Lightning Strike | 1 | ? | ? | ? | ? |
+    | Storm Caller | 7 | ? | ? | ? | ? |
+    | Storm Channeler | 15 | ? | ? | ? | ? |
+    | Concentrated Lightning | 25 | ? | ? | ? | ? |
+    | Heat Lightning | 35 | ? | ? | ? | ? |
+    | Cloudstrike| 50 | ? | ? | ? | ? |
+    | Ancient: Stormrage | 50 | ? | ? | ? | ? |
     
 ## Description
 The Druid is a hybrid spell caster.
